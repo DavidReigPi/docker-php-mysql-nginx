@@ -2,4 +2,4 @@
 
 phpinfo();
 
-echo "esto es una prueba";
+echo "Esto es una prueba de que Paula me debes 49 euros. Pedro";
