@@ -1,3 +1,3 @@
 <?php
 
-echo "Pedro paga el kebak. Primer aviso.";
+echo "Pedro paga el kebab. Primer aviso.";
