@@ -1,5 +1,5 @@
 <?php
-echo "Prueba GinesMata"
+echo "Prueba GinesMata" 
 
 
 ?>
